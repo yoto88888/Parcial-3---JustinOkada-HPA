@@ -1,0 +1,15 @@
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Parcial#3 - Figuras\Parcial#3 - Figuras\bin\Debug\net10.0\Parcial#3 - Figuras.exe
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Parcial#3 - Figuras\Parcial#3 - Figuras\bin\Debug\net10.0\Parcial#3 - Figuras.deps.json
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Parcial#3 - Figuras\Parcial#3 - Figuras\bin\Debug\net10.0\Parcial#3 - Figuras.runtimeconfig.json
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Parcial#3 - Figuras\Parcial#3 - Figuras\bin\Debug\net10.0\Parcial#3 - Figuras.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Parcial#3 - Figuras\Parcial#3 - Figuras\bin\Debug\net10.0\Parcial#3 - Figuras.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Parcial#3 - Figuras\Parcial#3 - Figuras\obj\Debug\net10.0\Parcial#3 - Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Parcial#3 - Figuras\Parcial#3 - Figuras\obj\Debug\net10.0\Parcial#3 - Figuras.AssemblyInfoInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Parcial#3 - Figuras\Parcial#3 - Figuras\obj\Debug\net10.0\Parcial#3 - Figuras.AssemblyInfo.cs
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Parcial#3 - Figuras\Parcial#3 - Figuras\obj\Debug\net10.0\Parcial#3 - Figuras.csproj.CoreCompileInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Parcial#3 - Figuras\Parcial#3 - Figuras\obj\Debug\net10.0\Parcial#3 - Figuras.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Parcial#3 - Figuras\Parcial#3 - Figuras\obj\Debug\net10.0\refint\Parcial#3 - Figuras.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Parcial#3 - Figuras\Parcial#3 - Figuras\obj\Debug\net10.0\Parcial#3 - Figuras.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Parcial#3 - Figuras\Parcial#3 - Figuras\obj\Debug\net10.0\Parcial#3 - Figuras.genruntimeconfig.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Parcial#3 - Figuras\Parcial#3 - Figuras\obj\Debug\net10.0\ref\Parcial#3 - Figuras.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Parcial#3 - Figuras\Parcial#3 - Figuras\obj\Debug\net10.0\Parcial#.9FEA2916.Up2Date
